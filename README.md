@@ -1,2 +1,1 @@
-# EmployeeMnagementSystem
-project
+# EmployeeManagementSystem
