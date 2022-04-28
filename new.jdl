@@ -1,0 +1,13 @@
+entity Employee {
+employeeId String
+name String
+salary Long
+designation String
+}
+
+
+paginate all with pagination
+
+dto * with mapstruct
+
+service all with serviceImpl
